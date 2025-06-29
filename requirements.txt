@@ -1,0 +1,19 @@
+# Core ML libraries
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+
+# MLflow (compatible avec DagsHub)
+mlflow==2.10.1
+
+# API web
+flask==2.3.3
+gunicorn==21.2.0
+
+# Data versioning
+dvc==3.49.0
+
+# Utilitaires HTTP
+requests==2.31.0
+
+
